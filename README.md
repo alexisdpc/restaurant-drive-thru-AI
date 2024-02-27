@@ -4,7 +4,7 @@ These are the responses obtained from running the Python script using OpenAI
 
 - "Hi, do you have cola?"
 
-There is no specific mention of cola in the list provided. If you need further information or assistance, feel free to ask.
+**OpenAI:** There is no specific mention of cola in the list provided. If you need further information or assistance, feel free to ask.
 I will start by opening the file you uploaded to see its contents and check for information related to your question about cola. Let's begin by inspecting the file.
 
 I have checked the file, and it contains information about the items available at KFC under different categories like Chicken, Drinks, and Burgers. Specifically, in the "Drinks" section, the following options are listed:
@@ -23,6 +23,8 @@ I have checked the file, and it contains information about the items available a
 12. Sisi
 13. Fernandes
 14. Lipton
+
+**Mistral:** 'I'm sorry, based on the information provided, it appears that there are no cola options available in the drinks section ("Drinks") at this KFC location. You may consider other beverage options such as Iced Tea, Pepsi, 7Up, or Fanta. However, please note that all drinks listed are currently unavailable according to the context information.'
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
