@@ -24,7 +24,8 @@ I have checked the file, and it contains information about the items available a
 13. Fernandes
 14. Lipton
 
-**Mistral:** 'I'm sorry, based on the information provided, it appears that there are no cola options available in the drinks section ("Drinks") at this KFC location. You may consider other beverage options such as Iced Tea, Pepsi, 7Up, or Fanta. However, please note that all drinks listed are currently unavailable according to the context information.'
+**MistralAI:** 'I'm sorry, based on the information provided, it appears that there are no cola options available in the drinks section ("Drinks") at this KFC location. You may consider other beverage options such as Iced Tea, Pepsi, 7Up, or Fanta. However, please note that all drinks listed are currently unavailable according to the context information.'
+
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
