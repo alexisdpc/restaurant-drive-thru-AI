@@ -1,8 +1,8 @@
 # Restaurant drive-thru orders
 
-These are the responses obtained from running the Python script:
+These are the responses obtained from running the Python script using OpenAI
 
-"Hi, do you have cola?"
+- "Hi, do you have cola?"
 
 There is no specific mention of cola in the list provided. If you need further information or assistance, feel free to ask.
 I will start by opening the file you uploaded to see its contents and check for information related to your question about cola. Let's begin by inspecting the file.
@@ -26,7 +26,7 @@ I have checked the file, and it contains information about the items available a
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"Hi I want to have a Fire Zinger Stacker without sauce and a cola"
+- "Hi I want to have a Fire Zinger Stacker without sauce and a cola"
 
 I will open the file to check the available options and customize the order for you. Let's start by reviewing the file.
 
@@ -36,7 +36,7 @@ The available cola options are Pepsi and 7Up. I will add a Pepsi to your order. 
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"Give me a Veggie Tender, medium, with salad"
+- "Give me a Veggie Tender, medium, with salad"
 
 To proceed with your order request for a Veggie Tender, medium size, with salad, I will look for the availability and details of this item in the file you provided. Let's begin by checking the content of the file to see if this particular item is listed.
 
@@ -44,13 +44,13 @@ I have checked the menu, and I couldn't find a Veggie Tender with salad listed. 
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"Give me an orange chocolate milkshake, medium"
+- "Give me an orange chocolate milkshake, medium"
 
 I couldn't find any information on an "Orange Chocolate Milkshake" in the document. It appears that the section I reviewed doesn't list this specific item, or it might not be available in the menu. If there's another item or drink you're interested in, feel free to ask
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"Give me the gluten free burger options "
+- "Give me the gluten free burger options "
 
 We have several gluten-free burger options on our menu. However, it's important to note that currently, all the burgers listed as gluten-free are marked as unavailable. Here are the options:
 
@@ -64,12 +64,12 @@ Please note that other burgers listed contain allergens such as wheat and soy, a
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"How many calories does the Colonel have?"
+- "How many calories does the Colonel have?"
 
 The Colonel Burger has 150 calories, 100 grams of fat, and 10 grams of protein
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
-"Can I get a Whopper?"
+- "Can I get a Whopper?"
 
 I could not find a "Whopper" listed in the document. It appears that this specific item may not be available on our menu. If there's another burger or item you're interested in, feel free to ask!
