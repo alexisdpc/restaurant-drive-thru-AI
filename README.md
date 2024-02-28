@@ -33,7 +33,9 @@ I have checked the file, and it contains information about the items available a
 
 **MistralAI:** 'Based on the context information provided, it seems that you are looking to order the "Fire Zinger Burger Meal" (M4) without sauce and a cola. According to the menu, the "Fire Zinger Burger Meal" comes with a "Fire Zinger Burger" (B9), a choice of side dish, and a drink in size M. To customize your order, you can specify that you would like to have the Fire Zinger Burger without sauce and a cola as your drink. Here is an example of how you might place your order:
 
-"Hi, I would like to order the Fire Zinger Burger Meal (M4) without sauce on the burger and a cola as my drink. I would also like to choose [insert choice of side dish] as my side. Thank you."\n\nI hope this helps! Let me know if you have any other questions.
+"Hi, I would like to order the Fire Zinger Burger Meal (M4) without sauce on the burger and a cola as my drink. I would also like to choose [insert choice of side dish] as my side. Thank you."
+
+I hope this helps! Let me know if you have any other questions.
 
 Note: It is important to keep in mind that the context information provided may not be up-to-date or accurate, and it is always best to confirm the availability and details of menu items with the restaurant directly.'
 
