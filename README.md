@@ -49,6 +49,14 @@ The available cola options are Pepsi and 7Up. I will add a Pepsi to your order. 
 
 - "Give me a Veggie Tender, medium, with salad"
 
+**MistralAI:** Based on the provided context, there are several meal options that include Veggie Tenders (V2) and a medium-sized drink (L), but none explicitly mention a salad as a side dish. However, you could potentially customize one of the following options to include a salad:
+
+* M20: 4 Veggie Tender meal - This meal includes 4 Veggie Tenders and a choice of one side dish. You could select a medium drink as your drink size and then ask to swap the included side dish for a salad.
+* M37: Veggie Kids Meal - This meal includes 2 Veggie Tenders, a medium drink, a choice of one sauce, and a choice of one side dish. You could select a salad as your side dish.
+* M39: Veggie Bucket - This meal includes 10 Veggie Tenders, a choice of two side dishes, and a medium drink. You could select a salad as one of your side dishes.
+
+Please note that the availability of customizations may vary depending on the location and specific restaurant policies.
+
 **OpenAI:** To proceed with your order request for a Veggie Tender, medium size, with salad, I will look for the availability and details of this item in the file you provided. Let's begin by checking the content of the file to see if this particular item is listed.
 
 I have checked the menu, and I couldn't find a Veggie Tender with salad listed. However, there is a "Veggie Burger" available for 10 units. If you are interested in that alternative or want to explore other options, feel free to let me know.
@@ -57,11 +65,19 @@ I have checked the menu, and I couldn't find a Veggie Tender with salad listed. 
 
 - "Give me an orange chocolate milkshake, medium"
 
+**MistralAI**: I'm sorry, there is no option for an orange chocolate milkshake, medium in the provided context information. The available drink options are not listed, only the sizes are mentioned for some menus. Please check the drink options and try again.
+
 **OpenAI:** I couldn't find any information on an "Orange Chocolate Milkshake" in the document. It appears that the section I reviewed doesn't list this specific item, or it might not be available in the menu. If there's another item or drink you're interested in, feel free to ask
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
 - "Give me the gluten free burger options "
+
+**MistralAI:** The gluten-free burger options, denoted as "GF", are:
+
+GF: "B2: Original Fillet Breaded", "B3: Original Fillet", "B9: Fire Zinger", "B10: Colonel Stacker", "B11: Colonel Burger", "B14: Original Burger"
+
+Please note that this information is based on the context provided and may not reflect actual gluten-free options. Always check with the restaurant for accurate information regarding food allergens and dietary restrictions
 
 **OpenAI:** We have several gluten-free burger options on our menu. However, it's important to note that currently, all the burgers listed as gluten-free are marked as unavailable. Here are the options:
 
@@ -77,10 +93,16 @@ Please note that other burgers listed contain allergens such as wheat and soy, a
 
 - "How many calories does the Colonel have?"
 
+**MistralAI:** The question is ambiguous as it does not specify whether "the Colonel" refers to a specific food item or drink on the menu. However, assuming that it refers to a food item, there are two options on the menu with "Colonel" in their names: "Colonel Stacker" and "Colonel Burger". Based on the context information provided, the "Colonel Stacker" has 150 calories and the "Colonel Burger" also has 150 calories. However, it is important to note that all items on the menu are listed as not available, so it is unclear whether these items are currently offered or not. Additionally, the context information does not provide any information about the nutritional content of these items beyond the number of calories, so it is not possible to provide a more detailed answer without additional context.
+ 
 **OpenAI:** The Colonel Burger has 150 calories, 100 grams of fat, and 10 grams of protein
 
 ▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄─▀▄
 
 - "Can I get a Whopper?"
+
+**MistralAI:** 
+Based on the information provided, it appears that the menu does not include a "Whopper" burger. All available burger options and their details are listed under the "Burgers" category, and a "Whopper" is not among them. Therefore, unfortunately, you cannot get a Whopper from this menu.
+
 
 **OpenAI:** I could not find a "Whopper" listed in the document. It appears that this specific item may not be available on our menu. If there's another burger or item you're interested in, feel free to ask!
