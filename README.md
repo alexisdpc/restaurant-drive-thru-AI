@@ -1,6 +1,6 @@
 # Restaurant drive-thru orders
 
-**Automates a food order from a json food menu using OpenAI and MistralAI.**
+**Automates a food order from a json food menu using Retrieval-Augmented Generation (RAG) with OpenAI and MistralAI.**
 
 These are the responses obtained from running the Python script using OpenAI
 
